@@ -159,16 +159,8 @@ input:focus {
   background-color: #202142;
 }
 
-.btn-cambiar {
-  background-color: #202142;
-}.btn-suma {
-  background-color: #c752ae;
-}.btn-resta {
-  background-color: #cf6b3d;
-}
-
 .btn-secondary {
-  background: #d17d95;
+  background: #ff6a95;
 }
 
 .btn:hover {
